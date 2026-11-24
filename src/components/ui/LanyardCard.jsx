@@ -1,0 +1,37 @@
+import React, { Suspense, lazy } from "react";
+import { motion } from "framer-motion";
+
+const LanyardScene = lazy(() => import("./LanyardScene"));
+
+export default function LanyardCard() {
+  return (
+    <motion.div
+      initial={{ opacity: 0, y: -30 }}
+      animate={{ opacity: 1, y: 0 }}
+      transition={{ duration: 0.9, ease: [0.22, 1, 0.36, 1], delay: 0.2 }}
+      className="relative z-0 flex h-[100vh] w-full items-center justify-center sm:h-[520px] md:h-[580px] lg:h-[640px] lg:w-[200vw] xl:h-[700px] hd:h-[750px] fhd:h-[850px] 2k:h-[1000px] 4k:h-[1400px] lg:[--card-tx:-350px] lg:[--card-ml:-350px]"
+      style={{
+        transform: "translateX(var(--card-tx, 0px))",
+        marginLeft: "var(--card-ml, 0px)",
+      }}
+    >
+      <motion.div
+        aria-hidden
+        animate={{ opacity: [0.4, 0.75, 0.4] }}
+        transition={{ duration: 4, repeat: Infinity, ease: "easeInOut" }}
+        className="absolute inset-6 -z-10 rounded-[3rem] bg-[linear-gradient(135deg,rgba(108,99,255,0.3),rgba(0,229,255,0.2),rgba(255,77,157,0.2))] blur-3xl pointer-events-none"
+      />
+
+      <Suspense
+        fallback={
+          <div className="flex h-64 w-48 items-center justify-center rounded-2xl border border-white/10 bg-white/[0.02] backdrop-blur-md">
+            <span className="text-xs text-text-secondary">Loading 3D Card...</span>
+          </div>
+        }
+      >
+        <LanyardScene photoSrc="/images/fathan_card.png" />
+      </Suspense>
+    </motion.div>
+  );
+}
+

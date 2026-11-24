@@ -1,0 +1,498 @@
+=== PAGE 1 ===
+Project UI UX 
+ 
+Laju 
+Laju adalah aplikasi transportasi berbasis mobile yang dikembangkan sebagai solusi 
+mobilitas modern bagi masyarakat di kota besar dan menengah. Aplikasi ini dirancang 
+untuk memudahkan pengguna dalam memesan layanan transportasi seperti motor, 
+mobil, dan pengiriman barang (send) hanya melalui satu platform digital yang cepat, 
+aman, dan efisien.  
+Tujuan utama pengembangan aplikasi ini adalah untuk menyediakan layanan 
+transportasi yang mudah diakses, meningkatkan efisiensi perjalanan harian, serta 
+memberikan kenyamanan dan keamanan bagi pengguna dari berbagai kalangan. Laju 
+menghubungkan pengguna dan mitra pengemudi secara real-time dengan dukungan 
+teknologi GPS untuk memastikan proses pencarian dan pemesanan berlangsung cepat 
+dan akurat.  
+Target utama pengguna aplikasi ini meliputi mahasiswa dan pelajar yang 
+membutuhkan transportasi terjangkau untuk aktivitas belajar, pekerja kantoran yang 
+memerlukan layanan cepat dan nyaman untuk mobilitas kerja, serta masyarakat umum 
+yang membutuhkan solusi transportasi dan pengiriman barang yang praktis. Aplikasi 
+ini dapat digunakan oleh pengguna berusia 13 tahun ke atas, dengan ketentuan bahwa 
+pengguna di bawah umur harus berada di bawah pengawasan orang tua untuk menjaga 
+keamanan penggunaan. 
+Fitur utama yang disediakan oleh aplikasi Laju meliputi: 
+●​ Cari Layanan Motor 
+Pengguna dapat mencari pengemudi motor terdekat berdasarkan lokasi GPS. 
+Sistem menampilkan estimasi waktu dan biaya perjalanan secara otomatis. 
+●​ Pesan Layanan Motor 
+Setelah memilih pengemudi, pengguna dapat langsung melakukan pemesanan, 
+memantau posisi pengemudi, serta membatalkan pesanan jika diperlukan. 
+●​ Cari Layanan Mobil 
+Menyediakan pilihan kendaraan mobil untuk perjalanan dengan kapasitas 
+penumpang lebih banyak atau jarak yang lebih jauh. 
+●​ Pesan Layanan Mobil 
+Pengguna dapat memesan mobil untuk perjalanan pribadi maupun kelompok, 
+dengan estimasi waktu tempuh dan biaya yang transparan. 
+
+
+=== PAGE 2 ===
+●​ Cari Layanan Send (Pengiriman Barang) 
+Fitur ini membantu pengguna menemukan kurir terdekat untuk pengiriman paket 
+atau barang kecil. 
+●​ Pesan Layanan Send 
+Pengguna dapat memasukkan detail barang, alamat pengiriman, serta memantau 
+status pengiriman secara real-time hingga barang diterima oleh penerima. 
+●​ Cek Riwayat Pemesanan 
+Menampilkan daftar seluruh perjalanan dan pengiriman yang telah dilakukan. 
+Pengguna dapat melihat detail waktu, jarak tempuh, biaya, dan pengemudi yang 
+digunakan sebelumnya. 
+ 
+Studymate 
+StudyMate merupakan aplikasi mobile yang dirancang untuk membantu mahasiswa 
+mengelola aktivitas belajar secara kolaboratif. Aplikasi ini menghubungkan mahasiswa 
+dengan teman belajar yang sesuai berdasarkan program studi, mata kuliah, minat belajar, dan 
+ketersediaan waktu melalui sistem auto-matching. StudyMate bertujuan menciptakan 
+lingkungan belajar yang lebih interaktif, terorganisasi, dan produktif melalui integrasi fitur 
+komunikasi, penjadwalan, dokumentasi, serta pemantauan progres belajar. 
+Fitur Utama StudyMate 
+1.​ Auto-Matching Teman Belajar 
+Mencocokkan mahasiswa dengan calon teman atau kelompok belajar berdasarkan program 
+studi, mata kuliah, minat belajar, dan ketersediaan jadwal. 
+2.​ Chat Room Diskusi 
+Menyediakan ruang komunikasi untuk bertukar pesan, berbagi materi dan file, serta 
+berdiskusi mengenai kebutuhan akademik. 
+3.​ Smart Notification 
+Memberikan notifikasi terkait pesan masuk, perubahan jadwal, dan undangan sesi belajar. 
+4.​ Study Scheduling & Calendar 
+Memungkinkan mahasiswa membuat jadwal belajar bersama, menentukan waktu 
+pertemuan, mengintegrasikan jadwal dengan kalender, serta mengatur pengingat otomatis. 
+5.​ Discussion Notes 
+Menyediakan fitur pencatatan hasil diskusi berupa ringkasan materi, poin-poin penting, 
+dan daftar tugas yang dapat diakses kembali. 
+6.​ Study Progress & Statistics 
+
+
+=== PAGE 3 ===
+Menampilkan statistik dan grafik waktu belajar untuk memantau produktivitas, 
+perkembangan aktivitas belajar, dan mengevaluasi kebiasaan belajar. 
+ 
+Lumbung.id 
+Lumbung.id 
+merupakan 
+aplikasi 
+digital 
+berbasis 
+mobile yang dirancang untuk 
+mengintegrasikan aktivitas pertanian dan distribusi hasil pertanian dalam satu platform. 
+Aplikasi ini menghubungkan tiga kelompok pengguna utama, yaitu petani, distributor, dan 
+konsumen, untuk mempermudah proses jual beli kebutuhan pertanian, distribusi hasil panen, 
+serta pemantauan informasi pertanian. 
+Lumbung.id menyediakan layanan yang disesuaikan dengan kebutuhan masing-masing 
+pengguna. Petani dapat mengelola hasil panen, memantau kondisi pertanian, mencatat 
+keuangan, dan mendistribusikan hasil panen. Distributor dapat mengelola pesanan dan 
+aktivitas distribusi, sedangkan konsumen dapat membeli hasil pertanian serta menemukan 
+petani terdekat. Seluruh aktivitas didukung oleh fitur komunikasi, riwayat transaksi, dan 
+dompet digital. 
+Fitur Utama Lumbung.id 
+1. Fitur Berdasarkan Role Pengguna 
+A. Petani 
+1. LumbungMart: Membeli benih, pupuk, dan peralatan pertanian. 
+2. LumbungLoc: Menemukan lokasi petani terdekat dan menyimpan petani favorit. 
+3. LumbungStat: Memantau grafik hasil panen, harga pasar, serta stok pupuk dan varietas. 
+4. LumbungRecap: Mencatat dan mengelola keuangan pertanian. 
+5. LumbungSend: Mengatur distribusi hasil panen kepada distributor. 
+6. LumbungCare: Memperoleh informasi cuaca, suhu, kelembapan, dan rekomendasi 
+tanaman. 
+7. Dompet Digital: Mengelola saldo, penarikan dana, dan transaksi. 
+B. Distributor 
+1. LumbungMart: Membeli kebutuhan pertanian. 
+2. LumbungSend: Melihat dan mengelola pesanan distribusi hasil panen. 
+3. LumbungRecap: Mencatat keuangan aktivitas distribusi. 
+4. Dompet Digital: Melakukan pembayaran dan transaksi. 
+C. Konsumen 
+1. LumbungMart: Membeli berbagai hasil pertanian. 
+2. LumbungLoc: Menemukan petani terdekat dan menyimpan petani favorit. 
+
+
+=== PAGE 4 ===
+3. LumbungDistri: Meminta distributor mengambil hasil panen dari petani atau pasar. 
+4. Dompet Digital: Melakukan pembayaran pesanan. 
+2. Fitur Umum 
+1. Beranda: Menampilkan informasi dan layanan sesuai role pengguna, termasuk berita 
+terkini dan fitur pendukung. 
+2. Riwayat Transaksi: Menyimpan catatan transaksi pembelian, penjualan, dan distribusi. 
+3. Forum/Chat: Memfasilitasi komunikasi dan diskusi antar pengguna secara personal 
+maupun grup. 
+4. Profil dan Setelan: Mengelola informasi akun, bahasa, serta pengaturan keamanan. 
+ 
+
+
+=== PAGE 5 ===
+Project Data Mining 
+ 
+Diabetes Readmission Prediction Using Machine Learning 
+1. Overview 
+Proyek ini merupakan penelitian yang berfokus pada penerapan Machine Learning untuk 
+menganalisis dan memprediksi kemungkinan pasien diabetes mengalami rawat inap kembali 
+(hospital readmission). Penelitian menggunakan dataset Diabetes 130-US Hospitals for Years 
+1999–2008 yang terdiri dari 101.766 data dan 50 atribut. Proses penelitian mencakup 
+Exploratory Data Analysis (EDA), data preprocessing, hingga pembangunan dan evaluasi 
+beberapa model klasifikasi untuk memprediksi status readmission pasien. 
+2. Problem 
+Dataset yang digunakan memiliki beberapa tantangan dalam proses pengolahan data. Di 
+antaranya terdapat nilai yang hilang (missing values), data dengan penanda nilai tidak 
+diketahui (?), jumlah atribut yang cukup banyak, serta distribusi kelas target yang tidak 
+seimbang. Selain itu, terdapat atribut kode diagnosis yang memiliki variasi nilai cukup tinggi. 
+Kondisi tersebut membuat data perlu dianalisis dan diproses terlebih dahulu agar dapat 
+digunakan dalam pembangunan model Machine Learning. 
+3. Solution 
+Untuk mengatasi permasalahan tersebut, dilakukan analisis data menggunakan EDA untuk 
+memahami struktur, karakteristik, distribusi, dan hubungan antaratribut. Selanjutnya, 
+dilakukan data cleaning, penanganan missing values, serta feature engineering pada atribut 
+diagnosis. Data kemudian diproses menggunakan pipeline preprocessing sebelum digunakan 
+untuk melatih beberapa algoritma Machine Learning. Model yang dibangun meliputi Logistic 
+Regression, Random Forest, dan Extra Trees untuk mengetahui algoritma yang memberikan 
+hasil klasifikasi terbaik. 
+4. Features 
+●​ Exploratory Data Analysis (EDA): Menganalisis struktur dataset, distribusi kelas 
+target, karakteristik atribut, serta hubungan antarvariabel menggunakan visualisasi 
+data. 
+●​ Data Cleaning: Menangani nilai tidak diketahui (?), missing values, dan memeriksa 
+data duplikat. 
+●​ Feature Engineering: Mengolah atribut diagnosis (diag_1, diag_2, dan diag_3) dengan 
+mengambil tiga karakter pertama dari kode diagnosis. 
+
+
+=== PAGE 6 ===
+●​ Feature Selection: Menghapus atribut identitas pasien dan data yang dinilai kurang 
+sesuai untuk pemodelan, seperti encounter_id, patient_nbr, dan weight. 
+●​ Data Preprocessing: Melakukan imputasi missing values, normalisasi data numerik, 
+serta encoding pada data kategorikal. 
+●​ Model Training: Membangun model klasifikasi menggunakan Logistic Regression, 
+Random Forest, dan Extra Trees. 
+●​ Model Evaluation: Mengevaluasi performa model menggunakan Accuracy, Precision, 
+Recall, F1-Score, dan Confusion Matrix. 
+5. Technology 
+●​ Python: Bahasa pemrograman utama untuk pengolahan data dan pembangunan model 
+Machine Learning. 
+●​ Google Colab: Lingkungan pengembangan untuk menjalankan seluruh proses analisis 
+dan pemodelan. 
+●​ Pandas & NumPy: Digunakan untuk manipulasi, pengolahan, dan analisis data. 
+●​ Matplotlib & Seaborn: Digunakan untuk membuat visualisasi dalam proses EDA. 
+●​ Scikit-learn: Digunakan untuk preprocessing, pembagian dataset, pembangunan 
+pipeline, pelatihan model, dan evaluasi performa algoritma. 
+6. Develop Process 
+1.​ Data Collection: Menggunakan dataset Diabetes 130-US Hospitals for Years 
+1999–2008 sebagai sumber data penelitian. 
+2.​ Exploratory Data Analysis: Mengidentifikasi karakteristik dataset, tipe data, distribusi 
+target, missing values, dan hubungan antaratribut melalui analisis statistik serta 
+visualisasi. 
+3.​ Data Cleaning: Mengubah penanda ? menjadi missing values, memeriksa duplikasi 
+data, dan menyiapkan strategi penanganan nilai yang hilang. 
+4.​ Feature Engineering: Mengolah kode diagnosis dengan mengambil tiga karakter 
+pertama pada atribut diag_1, diag_2, dan diag_3. 
+5.​ Data Preparation: Menghapus atribut yang tidak digunakan dalam pemodelan dan 
+membagi dataset menjadi data training dan testing dengan rasio 80:20 menggunakan 
+stratified split. 
+6.​ Preprocessing Pipeline: Menerapkan median imputation dan StandardScaler pada data 
+numerik, serta most-frequent imputation dan OneHotEncoder pada data kategorikal. 
+Seluruh tahapan preprocessing digabungkan menggunakan Pipeline dan 
+ColumnTransformer. 
+
+
+=== PAGE 7 ===
+7.​ Model Development: Melatih tiga algoritma klasifikasi, yaitu Logistic Regression, 
+Random Forest, dan Extra Trees. 
+8.​ Model Evaluation: Membandingkan performa ketiga model menggunakan metrik 
+evaluasi klasifikasi. Berdasarkan hasil pengujian, Random Forest memperoleh 
+performa terbaik dengan Accuracy sebesar 51,32% dan F1-Score Weighted sebesar 
+52,36%. 
+Hasil Penelitian: Model Random Forest memberikan hasil terbaik dibandingkan dua 
+algoritma lainnya pada eksperimen ini. Hasil tersebut menjadi gambaran penerapan Machine 
+Learning dalam menganalisis pola readmission pasien diabetes berdasarkan data historis 
+rumah sakit. 
+ 
+
+
+=== PAGE 8 ===
+NYC Airbnb Open Data, Exploratory Data Analysis (EDA) 
+1. Overview 
+Proyek ini merupakan penelitian yang berfokus pada penerapan Exploratory Data Analysis 
+(EDA) untuk memahami karakteristik dan pola data listing Airbnb di New York City. Dataset 
+yang digunakan adalah New York City Airbnb Open Data dari Kaggle, dengan total 48.895 
+baris dan 16 kolom data. Analisis dilakukan terhadap berbagai informasi listing, seperti 
+lokasi, jenis kamar, harga sewa per malam, minimum malam menginap, jumlah ulasan, dan 
+ketersediaan listing. Penelitian ini bertujuan untuk memahami struktur dataset, memeriksa 
+kualitas data, menemukan hubungan antarvariabel, serta mengidentifikasi anomali dan outlier 
+sebelum data digunakan untuk analisis lebih lanjut. 
+2. Problem 
+Dataset NYC Airbnb memiliki beberapa kondisi yang perlu diperhatikan sebelum dilakukan 
+analisis lanjutan. Terdapat 20.141 missing values yang sebagian besar berada pada kolom 
+last_review dan reviews_per_month. Selain itu, distribusi beberapa variabel numerik tidak 
+merata dan memiliki rentang nilai yang cukup ekstrem, seperti harga listing yang mencapai 
+$10.000 per malam dan minimum nights hingga 1.250 malam. Kondisi tersebut dapat 
+memengaruhi hasil analisis statistik apabila tidak diperiksa terlebih dahulu. Oleh karena itu, 
+diperlukan eksplorasi untuk memahami pola data, mengetahui kualitas setiap variabel, dan 
+membedakan nilai ekstrem yang masih mungkin merepresentasikan kondisi sebenarnya 
+dengan data yang perlu ditinjau lebih lanjut. 
+3. Solution 
+Penelitian ini dilakukan dengan menerapkan Exploratory Data Analysis (EDA) untuk 
+memperoleh gambaran yang lebih jelas mengenai dataset. Proses dimulai dengan memeriksa 
+struktur, tipe data, statistik deskriptif, missing values, dan duplikasi. Selanjutnya, dilakukan 
+analisis univariat untuk melihat distribusi masing-masing variabel, analisis bivariat untuk 
+mengamati hubungan antara dua variabel, serta analisis korelasi untuk mengetahui kekuatan 
+hubungan linear antarvariabel numerik. Metode Interquartile Range (IQR) juga digunakan 
+untuk mengidentifikasi outlier pada variabel harga dan minimum nights. Hasil analisis 
+kemudian digunakan untuk menyusun temuan dan rekomendasi pengolahan data sebelum 
+digunakan dalam analisis atau pemodelan lebih lanjut. 
+4. Features 
+●​ Dataset Profiling: Memeriksa ukuran dataset, struktur data, tipe data, lima data awal 
+dan akhir, serta statistik deskriptif setiap variabel. 
+
+
+=== PAGE 9 ===
+●​ Data Quality Inspection: Memeriksa missing values, data duplikat, tipe data, dan nilai 
+yang tidak valid berdasarkan rentang yang telah ditentukan. 
+●​ Univariate Analysis: Menganalisis distribusi variabel numerik menggunakan 
+histogram dan boxplot, serta variabel kategorikal menggunakan bar chart. 
+●​ Bivariate Analysis: Mengamati hubungan antara harga dengan jumlah ulasan serta 
+harga dengan minimum nights menggunakan scatter plot. 
+●​ Correlation Analysis: Menampilkan heatmap korelasi untuk mengetahui arah dan 
+kekuatan hubungan antarvariabel numerik. 
+●​ Outlier Detection: Mengidentifikasi nilai ekstrem pada variabel price dan 
+minimum_nights menggunakan metode Interquartile Range (IQR). 
+●​ Anomaly Inspection: Memeriksa harga nol, harga di atas $1.000, nilai minimum 
+nights yang ekstrem, missing values, serta rentang availability. 
+●​ Data Processing Recommendations: Menyusun rekomendasi penanganan missing 
+values, pemeriksaan outlier, dan persiapan data sebelum digunakan untuk analisis 
+lanjutan atau pemodelan. 
+5. Technology 
+●​ Python: Bahasa pemrograman utama untuk menjalankan proses pengolahan dan 
+analisis data. 
+●​ Pandas: Digunakan untuk membaca dataset, manipulasi data, pemeriksaan kualitas 
+data, dan perhitungan statistik deskriptif. 
+●​ NumPy: Digunakan untuk mendukung operasi numerik dan pengolahan matriks 
+korelasi. 
+●​ Matplotlib: Digunakan untuk membuat visualisasi data seperti histogram dan scatter 
+plot. 
+●​ Seaborn: Digunakan untuk membuat visualisasi statistik, seperti bar chart, boxplot, 
+dan correlation heatmap. 
+6. Develop Process 
+1.​ Data Collection: Mengumpulkan dataset New York City Airbnb Open Data dari 
+Kaggle menggunakan file AB_NYC_2019 - Asli.csv yang berisi 48.895 baris dan 16 
+kolom. 
+2.​ Data Loading & Understanding: Membaca dataset menggunakan Pandas, memeriksa 
+lima data pertama dan terakhir, struktur kolom, tipe data, serta statistik deskriptif. 
+Kolom last_review juga dikonversi ke tipe datetime agar dapat diproses sebagai data 
+tanggal. 
+
+
+=== PAGE 10 ===
+3.​ Data Quality Inspection: Memeriksa missing values, duplikasi, dan nilai yang tidak 
+valid pada beberapa variabel, seperti harga, minimum nights, koordinat lokasi, jumlah 
+review, dan availability. 
+4.​ Univariate Analysis: Menganalisis distribusi harga dan minimum nights 
+menggunakan histogram, distribusi wilayah dan jenis kamar menggunakan bar chart, 
+serta persebaran harga dan minimum nights menggunakan boxplot. 
+5.​ Bivariate Analysis: Membuat scatter plot untuk melihat hubungan antara price dengan 
+number_of_reviews dan hubungan antara price dengan minimum_nights. 
+6.​ Correlation Analysis: Menghitung korelasi antarvariabel numerik dan 
+menampilkannya dalam bentuk heatmap. Hubungan linear terbesar ditemukan antara 
+number_of_reviews dan reviews_per_month dengan nilai korelasi 0,550. 
+7.​ Anomaly Detection: Menggunakan metode IQR untuk mengidentifikasi 2.972 outlier 
+pada harga dan 6.607 data minimum nights di atas batas atas IQR. Pemeriksaan 
+tambahan juga menemukan 11 listing dengan harga $0 dan 239 listing dengan harga 
+lebih dari $1.000. 
+8.​ Analysis & Recommendations: Menyusun kesimpulan berdasarkan hasil EDA dan 
+memberikan rekomendasi penanganan missing values, pemeriksaan outlier, serta 
+preprocessing yang perlu dilakukan sebelum dataset digunakan untuk pemodelan. 
+Research Findings: Hasil analisis menunjukkan bahwa Manhattan menjadi wilayah dengan 
+jumlah listing terbanyak, yaitu 21.661 listing, sedangkan jenis kamar yang paling banyak 
+ditemukan adalah Entire home/apt dengan 25.409 listing. Rata-rata harga sewa per malam 
+sebesar $152,72 dengan median $106. Analisis juga menemukan bahwa beberapa variabel 
+memiliki distribusi yang menceng ke kanan dan mengandung nilai ekstrem. Temuan tersebut 
+dapat menjadi dasar untuk menentukan langkah pengolahan data pada penelitian selanjutnya. 
+ 
+ 
+
+
+=== PAGE 11 ===
+🚀 OS-QUEST 
+Platform Praktikum & Post-Test Sistem Operasi (Modul 2) 
+OS-QUEST merupakan platform pembelajaran berbasis web yang mensimulasikan 
+lingkungan Ubuntu Server untuk mendukung kegiatan Praktikum dan Post-Test Sistem 
+Operasi. 
+Platform ini menggunakan sistem gamifikasi berbasis level (quest), sehingga praktikan harus 
+menyelesaikan seluruh soal pada level aktif sebelum dapat melanjutkan ke level berikutnya. 
+ 
+🎯 Fitur Utama 
+1. Terminal Ubuntu Server Interaktif 
+Shell Realistis 
+●​ Menggunakan prompt terminal dinamis: praktikan@ubuntu-server:~$ 
+●​ Path direktori menyesuaikan folder kerja aktif. 
+●​ Mendukung navigasi direktori dan pengelolaan file. 
+Autentikasi dan Error Handling Linux 
+Pesan kesalahan disimulasikan menyerupai Ubuntu Server, antara lain: 
+Pesan Kesalahan 
+Exit Code 
+bash: command not found 
+127 
+cat: No such file or directory 
+1 
+mkdir: File exists 
+1 
+rm: Is a directory 
+1 
+Fitur Terminal: 
+●​ History perintah menggunakan tombol panah atas/bawah. 
+●​ Autocomplete perintah dan nama file menggunakan Tab. 
+●​ Interupsi proses menggunakan Ctrl+C. 
+●​ Membersihkan terminal menggunakan clear atau Ctrl+L. 
+2. Text Editor GNU Nano 
+OS-QUEST menyediakan simulasi editor GNU Nano 6.2 secara interaktif. 
+Fitur yang didukung: 
+●​ Membuka dan mengedit file menggunakan nano. 
+
+
+=== PAGE 12 ===
+●​ Menulis dan mengubah isi file. 
+●​ Menyimpan file menggunakan Ctrl+O. 
+●​ Keluar dari editor menggunakan Ctrl+X. 
+●​ Konfirmasi penyimpanan perubahan. 
+3. Simulasi Proses dan Thread 
+Mendukung simulasi beberapa perintah Linux untuk pengelolaan proses. 
+Perintah 
+Fungsi 
+ps -e -T 
+Menampilkan proses dan thread 
+ps -T -p $$ 
+Menampilkan thread proses shell aktif 
+top 
+Memantau proses dan penggunaan sumber daya 
+systemctl 
+Simulasi manajemen layanan 
+pkill apache2 
+Simulasi penghentian proses Apache 
+4. Dukungan Redirection dan Pipeline 
+Output Redirection 
+●​ > : Mengarahkan output dan menimpa isi file. 
+●​ >> : Menambahkan output ke akhir file. 
+●​ 2> : Mengarahkan pesan kesalahan (stderr). 
+Input Redirection 
+●​ < : Mengambil input dari file. 
+Pipeline 
+●​ | : Menghubungkan output suatu perintah sebagai input perintah berikutnya. 
+Pengolahan Teks 
+Mendukung kombinasi perintah seperti: 
+●​ sort 
+●​ sort -r 
+●​ sort -t 
+●​ grep 
+●​ wc 
+OS-QUEST juga mendukung pengaturan environment variable seperti LC_ALL=C. 
+ 
+
+
+=== PAGE 13 ===
+🎮 Sistem Gamifikasi Quest 
+OS-QUEST menggunakan sistem pembelajaran bertingkat yang terdiri dari 8 level. 
+Ketentuan pengerjaan: 
+●​ Setiap level memiliki 5 soal unik. 
+●​ Setiap soal memiliki bobot 2 poin. 
+●​ Total nilai setiap level adalah 10 poin. 
+●​ Praktikan hanya dapat membuka level berikutnya setelah seluruh soal pada level aktif 
+berhasil diselesaikan. 
+●​ Setiap level memiliki materi dan tingkat kesulitan yang berbeda. 
+Kurikulum Level 
+Level 
+Judul 
+Topik Utama 
+Jumlah 
+Soal 
+Bobot/Soal 
+Total 
+1 
+Proses 
+dan 
+Thread 
+ps, 
+top, 
+systemctl 
+5 
+2 
+10 
+2 
+Input & Output 
+Redirection 
+mkdir, 
+cat, 
+redirection 
+5 
+2 
+10 
+3 
+Pengeditan 
+File 
+Nano 
+nano, edit, save, 
+exit 
+5 
+2 
+10 
+4 
+Output 
+Redirection 
+echo, >, >> 
+5 
+2 
+10 
+5 
+Pipeline Sort & 
+WC 
+cat, sort, wc 
+5 
+2 
+10 
+6 
+Pipeline Grep 
+grep, kombinasi 
+pipeline 
+5 
+2 
+10 
+7 
+Kombinasi 
+Redirection 
+& 
+Pipeline 
+Pengolahan teks 
+lanjutan 
+5 
+2 
+10 
+
+
+=== PAGE 14 ===
+8 
+Kombinasi 
+Perintah Linux 
+Integrasi materi 
+seluruh level 
+5 
+2 
+10 
+ 
+🖥️ Teknologi 
+Platform OS-QUEST dikembangkan sebagai aplikasi berbasis web dengan fitur terminal 
+Linux interaktif dan simulasi lingkungan Ubuntu Server. 
+ 
+📌 Tujuan Pengembangan 
+1.​ Membantu praktikan memahami penggunaan perintah dasar Linux. 
+2.​ Memberikan pengalaman praktik melalui terminal interaktif. 
+3.​ Melatih kemampuan pengelolaan file, proses, dan pengolahan teks. 
+4.​ Meningkatkan pemahaman praktikan melalui sistem evaluasi berbasis quest. 
+5.​ Menyediakan media Post-Test yang interaktif dan mudah digunakan. 
+ 
+OS-QUEST — Learn Linux Through Interactive Quests! 
+ 
+ 
