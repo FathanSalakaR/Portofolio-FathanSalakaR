@@ -12,7 +12,7 @@ export const profile = {
   github: "https://github.com/FathanSalakaR",
   linkedin: "https://www.linkedin.com/in/fathan-salaka-r-02458632a/",
   cvUrl: "/cv/CV_Fathan_Salaka_R.pdf",
-  liveUrl: "https://fathan-salaka-r.vercel.app",
+  liveUrl: "https://portofolio-fathan-salaka-r.vercel.app",
   heroDescription:
     "Mahasiswa Teknik Informatika Universitas Lampung (IPK 3.90/4.00) yang memiliki ketertarikan mendalam pada pengembangan teknologi, khususnya Artificial Intelligence, Machine Learning, Data Mining, dan Internet of Things (IoT). Berpengalaman dalam pengembangan proyek teknologi, pengolahan data, perancangan antarmuka, serta aktif sebagai Asisten Laboratorium Teknik Digital dan organisasi kemahasiswaan.",
   aboutDescription:
